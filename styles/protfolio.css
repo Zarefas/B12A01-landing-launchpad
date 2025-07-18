@@ -1,0 +1,170 @@
+/* Font */
+
+.open-sans-normal {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+
+.inter-normal {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.raleway-normal {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+/* Common style */
+
+.total-bg {
+  background-color: #f5f8ff;
+  max-width: 1440px;
+}
+
+.btn-all {
+  font-weight: bold;
+  text-align: center;
+  font-size: 16px;
+  background-color: #4e47ff;
+  color: #ffffff;
+  border-radius: 10px;
+}
+
+.btn-sign-up {
+  width: 132px;
+  height: 48px;
+}
+/* Header */
+
+.banner {
+  background-image: url("../Assets/Hero-bg.png");
+  width: 1440px;
+  height: 700px;
+}
+
+.nav-banner {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1140px;
+  padding: 50px 150px;
+}
+
+.nav-banner-logo {
+  font-size: 34px;
+  color: #4e47ff;
+  font-weight: 900;
+}
+
+.nav-body {
+  width: 900px;
+  height: 240px;
+  border: none;
+  margin: 158px 270px 150px 270px;
+}
+
+.nav-body-description {
+  font-size: 65px;
+  font-weight: bold;
+  color: #252432;
+  text-align: center;
+}
+.A {
+  margin-top: 37px;
+  text-align: center;
+}
+.nav-body-btn {
+  width: 175px;
+  height: 50px;
+  text-align: center;
+  margin: auto;
+}
+
+/* main */
+/* main */
+
+/* action  */
+.action {
+  display: flex;
+  justify-content: space-between;
+  margin: 116px 141px 116px 159px;
+}
+
+.action-column1 {
+  margin: 62.5px 0 62.5px 0;
+}
+.action-column1-header {
+  font-weight: bold;
+  font-size: 42px;
+  color: #252432;
+}
+.action-column1-description {
+  font-weight: 400;
+}
+
+.action-column2-img {
+  border-radius: 48px;
+}
+
+/* user-info */
+.user-info {
+  width: 1140px;
+  height: 306px;
+  background-color: rgba(78, 71, 255, 0.1);
+  border-radius: 24px;
+  padding: 50px 142px;
+  margin: 116px 159px 137px 141px;
+}
+.user-info-header {
+  font-size: 38px;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 40px;
+}
+.user-info-body {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+}
+.user-info-body-rating {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-size: 80px;
+  font-weight: bold;
+  color: #4e47ff;
+}
+.user-info-body-description {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+
+/* User-feedback */
+.user-feedback-header {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-size: 42px;
+  font-weight: bold;
+  color: #252432;
+  text-align: center;
+}
+
+/* main-END */
+/* main-END */
+
+/* Footer */
